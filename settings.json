@@ -1,0 +1,11 @@
+{
+    "port":8091,
+
+    
+    "playlist":"https://music.youtube.com/playlist?list=ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "loop":true,
+
+    "cookies":[
+        
+    ]
+}
